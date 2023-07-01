@@ -1,0 +1,4 @@
+{
+"ads":"admob",
+"token":"kqsdfhq76767"
+}
