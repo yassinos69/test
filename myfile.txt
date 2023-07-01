@@ -1,4 +1,4 @@
 {
-"ads":"admob",
+"ads":"applo",
 "token":"kqsdfhq76767"
 }
